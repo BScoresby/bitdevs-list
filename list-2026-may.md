@@ -1,6 +1,6 @@
 # Releases
 - [Bitcoin Core v31](https://github.com/bitcoin/bitcoin/releases/tag/v31.0)
-    - [asmap](ttps://asmap.org/)
+    - [asmap](https://asmap.org/)
     - [Private transaction broadcast](https://stacker.news/items/1410542)
     - [Cluster Mempool](https://bitcoinops.org/en/topics/cluster-mempool/)
 - [Final release of JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver/releases/tag/v0.9.12)
