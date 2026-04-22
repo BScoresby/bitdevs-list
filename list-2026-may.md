@@ -25,6 +25,7 @@
 # Mining
 - [OpenSats: Open Hardware for Open Money](https://opensats.org/blog/open-hardware-for-open-money)
 - [Bitcoin Mining Renaissance: Stratum V2, Nonce Space, and the DIY Miner Comeback](https://256foundation.substack.com/p/assembling-freedom-24-bitcoin-mining)
+- [Supertestnet's Hashrate Market Idea](https://gist.github.com/supertestnet/4b2707d1b432eb02c1e56953c5db7c81)
 
 - [Flaco - Building a Bitcoin Circular Economy: Five Spectrums You Have to Navigate](https://pretyflaco.github.io/bce-spectrums/)
 
@@ -34,6 +35,7 @@
 - 
 
 # Tools
+- [Bitcoin PIR](https://github.com/Bitcoin-PIR/Bitcoin-PIR)
 - [SAKE: Script Army Knife Emulator - Nudvi](https://github.com/Nuhvi/sake)
 - [SparkStalker](https://sparkstalker.vercel.app/)
 - [Bitcoin Knowledge Base](https://bitcoinknowledge.dev/)
