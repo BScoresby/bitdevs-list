@@ -27,8 +27,6 @@
 - [Bitcoin Mining Renaissance: Stratum V2, Nonce Space, and the DIY Miner Comeback](https://256foundation.substack.com/p/assembling-freedom-24-bitcoin-mining)
 - [Supertestnet's Hashrate Market Idea](https://gist.github.com/supertestnet/4b2707d1b432eb02c1e56953c5db7c81)
 
-- [Flaco - Building a Bitcoin Circular Economy: Five Spectrums You Have to Navigate](https://pretyflaco.github.io/bce-spectrums/)
-
 # Quantum
 - [Bitcoin and Quantum Computing: A Roadmap - Neha Narula](https://nehanarula.org/2026/04/20/bitcoin-and-quantum-a-roadmap.html)
 - [How to Resolve the Matter of Satoshi's Coins without a Freeze - Nic Carter](https://murmurationstwo.substack.com/p/how-to-resolve-the-matter-of-the)
@@ -45,6 +43,7 @@
 - 
 
 # News
+- [Flaco - Building a Bitcoin Circular Economy: Five Spectrums You Have to Navigate](https://pretyflaco.github.io/bce-spectrums/)
 - [Nik Bhatia: Stablecoins as Statecraft](https://www.btcpolicy.org/articles/stablecoins-as-statecraft-reclaiming-us-financial-sovereignty-in-the-eurodollar-market)
 - [Allen Farrington - Number Go Down](https://x.com/allenf32/status/2045477517201477686)
 - [Brink - 2025 Engineering Impact Report](https://brink.dev/assets/files/brink-engineering-report-2025.pdf)
