@@ -24,8 +24,12 @@
 - [Simple Taproot Channels merged into BOLTs](https://github.com/lightning/bolts/blob/master/bolt-simple-taproot.md)
 
 # BIPs
+- [BIP 138: Compact Encryption Scheme for Non-seed Wallet Data](https://github.com/bitcoin/bips/pull/1951)
+- [BIP 139: Wallet Metadata Backup Format](https://github.com/bitcoin/bips/pull/2130) 
+- [BIP 323: 24 nVersion bits for general purpose use](https://github.com/bitcoin/bips/blob/master/bip-0323.mediawiki)
 - [BIP 376: Spending silent payments with PSBTs - nymius](https://github.com/bitcoin/bips/blob/master/bip-0376.mediawiki)
-- 
+- [BIP 450: Formosa—Seed Encoding per Themed Mnemonic Stories](https://github.com/bitcoin/bips/pull/2108)
+- [BIP 451: Dust UTXO Disposal Protocol](https://github.com/bitcoin/bips/blob/master/bip-0451.md)
   
 # Mining
 - [OpenSats: Open Hardware for Open Money](https://opensats.org/blog/open-hardware-for-open-money)
