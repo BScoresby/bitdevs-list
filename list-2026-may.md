@@ -50,6 +50,7 @@
 - [PACTs: Protecting Your Bitcoin From a Quantum Sunset](https://www.paradigm.xyz/2026/05/pacts-protecting-your-bitcoin-from-a-quantum-sunset)
 - [Scott Aaronson AMA on Stacker News](https://stacker.news/items/1477467)
 - [Alex Pruden AMA](https://stacker.news/items/1489488)
+- [Project Eleven releases Quantum Vault](https://github.com/p-11/quantum-vault)
 
 # Tools
 - [Bitcoin PIR](https://github.com/Bitcoin-PIR/Bitcoin-PIR)
@@ -85,3 +86,4 @@
 - ['Everyone Is Lying to You for Money' is almost a great bitcoin documentary](https://stacker.news/items/1482649)
 - [Bisq vulnerability being exploited, trading halted](https://bisq.community/t/psa-trade-protocol-exploit-discovered-investigations-ongoing/13664)
 - [Rusty Russell: I'm leaving Blockstream to try to start up CenturyMetadata.org](https://njump.me/nevent1qqsgxucdkyu8zu9ntgl4gpvxcfesx8pua56ahmf2d5qrwcgwnjtlx3gzyrchy4vx5spvq6hvsxx3g79yt24qmstv02wys6we0s6sxdk3d78yx5hspxf)
+- [John Carvalho releases Convservation of Blockspace paper](https://blockspace.science/paper)
