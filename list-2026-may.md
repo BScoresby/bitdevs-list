@@ -87,3 +87,4 @@
 - [Bisq vulnerability being exploited, trading halted](https://bisq.community/t/psa-trade-protocol-exploit-discovered-investigations-ongoing/13664)
 - [Rusty Russell: I'm leaving Blockstream to try to start up CenturyMetadata.org](https://njump.me/nevent1qqsgxucdkyu8zu9ntgl4gpvxcfesx8pua56ahmf2d5qrwcgwnjtlx3gzyrchy4vx5spvq6hvsxx3g79yt24qmstv02wys6we0s6sxdk3d78yx5hspxf)
 - [John Carvalho releases Convservation of Blockspace paper](https://blockspace.science/paper)
+- [Pleblab announces Startup Day Guadalajara](https://stacker.news/items/1488679)
